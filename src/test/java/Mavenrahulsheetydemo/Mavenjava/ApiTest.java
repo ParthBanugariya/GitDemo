@@ -25,12 +25,16 @@ public class ApiTest {
 		System.out.println("Jira App6");
 		System.out.println("Jira App7");
 
+		System.out.println("chnages to delete wittter below");
 		
 	}
 	
 	@Test
 	public void deleteTwitter() {
 		System.out.println("delete twitter");
+		
+		System.out.println("delete a tweet");
+
 
 	}
 	
