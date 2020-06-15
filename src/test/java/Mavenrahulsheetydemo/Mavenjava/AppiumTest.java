@@ -22,6 +22,8 @@ public class AppiumTest
 		
 		System.out.println("Native App Android");
 
+
+		System.out.println("----------this end of second person work---------------");
 	}
    
 	
@@ -29,4 +31,20 @@ public class AppiumTest
 	public void iOSApp() {
 		System.out.println("iOS App");
 	}
+	
+	
+	@Test
+	public void iOSApp4() {
+		System.out.println("iOS Appjdfkjkdfjfd");
+	}
+	
+	@Test
+	public void iOSApp3() {
+		System.out.println("iOS Appdkfjdkfjkdjfdkjfkdjf");
+	}
+	@Test
+	public void iOSApp2() {
+		System.out.println("iOS Aprowurioerup");
+	}
 }
+
