@@ -10,6 +10,24 @@ public class ApiTest {
 		
 		System.out.println("JIRA APP5=11111");
 
+		System.out.println("Jira App1");
+
+		
+		
+		System.out.println("Jira App2");
+
+		
+		System.out.println("Jira App3");
+
+		
+		System.out.println("Jira App4");
+
+		System.out.println("Jira App5");
+
+		System.out.println("Jira App6");
+		System.out.println("Jira App7");
+
+		
 	}
 	
 	@Test
