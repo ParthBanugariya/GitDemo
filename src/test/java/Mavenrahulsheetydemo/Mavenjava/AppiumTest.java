@@ -10,6 +10,18 @@ public class AppiumTest
 	@Test
 	public void NativeAppAndroid() {
 		System.out.println("Native App Android");
+
+		System.out.println("Native App Android");
+
+		
+		System.out.println("Native App Android");
+
+		
+		System.out.println("Native App Android");
+
+		
+		System.out.println("Native App Android");
+
 	}
    
 	
