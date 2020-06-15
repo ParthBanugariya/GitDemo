@@ -22,7 +22,10 @@ public class AppiumTest
 		
 		System.out.println("Native App Android");
 
+<<<<<<< HEAD
 		System.out.println("----------this end of second person work---------------");
+=======
+>>>>>>> master
 	}
    
 	
